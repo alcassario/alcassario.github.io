@@ -1,0 +1,14 @@
+--- 
+title: "Complex Surveys and Survey Weights: A Gentle Introduction"
+description: "Coming Soon! Under Construction ;)"
+author:
+  - name: Abigail Cassario 
+    url: https://alcassario.github.io
+    affilation: PhD Student, Department of Psychology, Michigan State University 
+    date: 6-15-2023
+    #categories: [big data, survey research, R]
+    citation: https://alcassario.github.io/posts/2023-06-15/
+    image: preview_image.jpg
+    draft: false
+---
+

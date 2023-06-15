@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Abigail Cassario"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - Research.qmd
+      - Teaching.qmd
+      - posts.qmd
+
+format:
+  html:
+    theme: quartz
+    css: styles.css
+    toc: true
+
+
+
