@@ -1,0 +1,44 @@
+---
+title: "Research"
+editor: visual
+---
+
+## My Interests
+
+Political Ideology, Ideological Development, Attitude Moralization, Political Polarization, Survey Research, Observational Causal Inference
+
+## Publications
+
+Cox., Keith S., Katherine J. Hanek, and Abigail L. Cassario. "Redemption in a Single Low Point Story Longitudinally Predicts Well-Being: The Incremental Validity of Life Story Elements." *Journal of Personality 87 (5)* (2019) 1009-1024.
+
+Cassario, Abigail L., Keith S. Cox, and Joshua Wilt. "Investigating the Cross Racial Measurement (In?) Variance of the Right Wing Authoritarianism Scale" *Journal of* *Psychological Inquiry* (2020).
+
+Brandt, Mark J., and Abigail L. Cassario. "Distinguishing Between Worldview Conflict and Shared Alliances: Commentary on Pinsof, Sears, and Haselton." *Psychological Inquiry* 34 (3) (2023), 168-174. <a href="comment_brandt-cassario_psyarxiv.pdf">Paper</a>
+
+Cassario, Abigail L., "Perceived Vulnerability to Infectious Disease and Perceived Harmfulness Are as Predictive of Citizen Response to COVID-19 as Partisanship." *Politics and the Life Sciences* 42 (2) (2023), 277-290. <a href="PVD_shortened_intro_PLS_new_pdf.pdf">Paper</a> <a href="PVDHarmAppendixPLS_pdf.pdf">Supplemental Materials</a>
+
+## Accepted Stage 1 Registered Reports
+
+Wetherell, Geoffrey A., Jordan L. Thompson, Mark J. Brandt, Abigail L. Cassario, Sada Rice, Prachi Solanki, and Shree Vallabha, "Do Mismatches Between Individual and Target Group Personality Predict Prejudice?" *Collabra Psychology*.
+
+Cassario, Abigail L., Jordan L. Thompson, Alejandro Carillo, Prachi Solanki, Shree Vallabha, Samantha A. Gnall, Sada Rice, Geoffrey Wetherell, and Mark J., Brandt, "Cognitive Ability, Cognitive Reflection, and Attitudes Towards Ideological Groups." *British Journal of Social Psychology*. <a href="cogability_pol_animosity_no_tracked_changes_10_31.pdf">Accepted Stage 1 Registered Report</a>
+
+## Revise and Resubmit
+
+Thompson, Jordan L., Sada Rice, Samantha A. Gnall, Abigail L. Cassario, Alejandro Carillo, Prachi Solanki, Shree Vallabha, Mark J. Brandt, and Geoffrey Wetherell. "Registered Report: Stress Testing Predictive Models of Ideological Prejudice." *Plos One*.
+
+## Under Review
+
+Cassario, Abigail L., Mark J. Brandt. "Testing Theories of Threat, Individual Difference and Ideology: Little Evidence of Personality Based Individual Differences in Ideological Responses to Threat." *Social Psychological and Personality Science* <a href="2024-01-22-FINAL-non-anon-pdf.pdf">Pre-print</a>
+
+Rice, Sada, Abigail L. Cassario, Prachi Solanki, Samantha A. Gnall, Jordan L. Thompson, Alejandro Carillo, Shree Vallabha, Mark J. Brandt, and Geoffrey Wetherell. "(National) Pride Predicts Prejudice Towards a Variety of Social Groups" *Comprehensive Results in Social Psychology.*
+
+## Working Projects
+
+Cook, Edgar, and Abigail L. Cassario. "Belief in a Just World, Social Dominance Orientation and Racial Resentment."
+
+Cassario, Abigail L., and Mark J. Brandt. "Implications of Belief System Structure for Attitude Stability and Change"
+
+Cassario, Abigail L., and Mark J. Brandt. "Can Conceptualizing Belief Systems as Networks Help Us Understand the Process of Attitude Moralization?"
+
+Finkel, Eli J., Catherine Garton, Alexander Landry, Ben Annandappa, and Abigail L. Cassario. "A Meta-Analysis of Partisan Misperceptions."
