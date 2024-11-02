@@ -1,0 +1,19 @@
+---
+title: "Teaching"
+editor: visual
+---
+
+## Psychology
+
+-   Introduction to Social Psychology
+-   Personality Psychology
+-   Psychology of Women
+
+## Political Science
+
+-   Introduction to American Politics
+-   Race, Innocence, and the Death Penalty
+
+## Methods
+
+-   Undergraduate Introduction to Statistics and R Programming (Psychology and Political Science)

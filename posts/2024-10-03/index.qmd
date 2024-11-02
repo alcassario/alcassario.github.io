@@ -1,0 +1,19 @@
+--- 
+title: "A Practical Introduction to Tree-Based Machine Learning Methods"
+description: "A beginner friendly introduction to supervised, tree-based methods through simulation"
+author:
+  - name: Abigail Cassario 
+    url: https://alcassario.github.io
+    affilation: PhD Student, Department of Psychology, Michigan State University 
+    date: 10-21-2024
+    categories: [big data, data generating processes, machine learning, application]
+    citation: https://alcassario.github.io/posts/2024-10-03/
+    image: preview_image.jpg
+    draft: true
+    format: 
+      html:
+      highlight: true
+---
+
+Post in progress 
+

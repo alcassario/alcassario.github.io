@@ -1,0 +1,44 @@
+---
+title: "Research"
+editor: visual
+---
+
+## My Interests
+
+Belief Systems, Ideology, Attitude Moralization, Individual Differences, Political Polarization, Survey Research, Observational Causal Inference, Computational Social Science
+
+## Publications
+
+**Cassario, A.L.**, Vallabha, S., Thompson, J.L., Carrillo, A., Solanki, P., Gnall, S.A., Rice, S., Wetherell, G., & Brandt, M.J. (2024) Registered report: Cognitive ability but not cognitive reflection predicts political animosity and favouritism. *British journal of social psychology*, (in press) <a href="2024-10-01-Stage2-FINAL.pdf">Paper</a> <a href="10-01-2024-Supplementals_Materials.pdf">Supplemental Materials</a>
+
+**Cassario, A.L.**, & Brandt, M.J. (2024). Testing theories of threat, individual difference, and ideology: Little evidence of personality based individual differences in ideological responses to threat. *Social psychological and personality science*, (in press) <a href="2024-08-05-FINAL-personality-threat.pdf">Paper</a> <a href="PersonalityThreatSupplementals.pdf">Supplemental Materials</a>
+
+**Cassario, A.L.** (2023). Perceived vulnerability to infectious disease and percieved harmfulness are as predictive of citizen response to COVID-19 as partisanship. *Politics and the life sciences*, 42(2), 277-290. <a href="PVD_shortened_intro_PLS_new_pdf.pdf">Paper</a> <a href="PVDHarmAppendixPLS_pdf.pdf">Supplemental Materials</a>
+
+Brandt, M.J., & **Cassario, A.L.** (2023) Distinguishing Between Worldview Conflict and Shared Alliances: Commentary on Pinsof, Sears, and Haselton. *Psychological inquiry*, 34 (3), 168-174. <a href="comment_brandt-cassario_psyarxiv.pdf">Paper</a>
+
+Cox, K. S., Hanek, K. J., & **Cassario, A. L.** (2019). Redemption in a single low point story longitu- dinally predicts well-being: The incremental validity of life story elements. *Journal of personality*, 87(5), 1009-1024.
+
+## Accepted Stage 1 Registered Reports
+
+Wetherell, G., Thompson J.T., Brandt, M.J., **Cassario, A.L.**, Rice, S., Solanki, P., Carrillo, A. & Vallabha S. Do mismatches between individual and target group personality predict prejudice? *Collabra: Psychology*.
+
+Thompson, J.L., **Cassario, A.L.,** Rice, S., Gnall, S.A., Carrillo, A., Solanki, P., Vallabha S., Brandt, M.J., & Wetherell G., Registered report: stress testing predictive models of ideological prejudice. *PLOS one*.
+
+## Revise and Resubmit
+
+Rice, S., **Cassario A.L.**, Thompson J.L., Gnall S.A., Carrillo, A., Vallabha S., Solanki P., Brandt M.J., Wetherell G., Registered report: Exploring the relationship between nationalism, patriotism, and prejudice. *Comprehensive results in social psychology*.
+
+## Under Review
+
+**Cassario, A.L., & Brandt, M.J**. Testing Predictions About Individual Level Belief System Structure Using the Conceptual Similarity Task.<a href="2024-09-17-individual-bs.pdf">Paper</a> <a href="2024-09-15-supplementals-Cassario-Brandt-Belief-Systems.pdf">Supplemental Materials</a>
+
+## Working Projects
+
+**Cassario, A.L.,** & Brandt, M.J., Does personality moderate the effect of threat on political conservatism? Experimental evidence says no.
+
+**Cassario, A.L.,** & Brandt, M.J., Exploring the effects of downward mobility on attitudes, behaviors, and life outcomes.
+
+**Cassario, A.L.,** Mulwa, K., & Brandt, M.J., Does a competitive presidential campaign increase interest in, desire to consume, and desire to share misinformation?
+
+**Cassario, A.L.,** Mulwa, K., & Brandt, M.J., Asymmetrical perceptions? Do Co and Out-partisans view Republicans as more likely to believe and be interested in misinformation and does this drive greater sharing of misinformation on the right?

@@ -1,0 +1,35 @@
+---
+title: "Abigail Cassario: PhD Student in Psychology"
+image: "Me.png"
+resources: Cassario_cv_Oct_07_24.pdf
+about:  
+  template: trestles
+  image-shape: round
+  image-width: 15em
+  links: 
+    - text: Email
+      icon: envelope
+      href: mailto:alcassario96@gmail.com
+    - text: GitHub
+      icon: github
+      href: https://github.com/alcassario
+    - text: Twitter
+      icon: twitter
+      href: https://twitter.com/ACassario
+    - text: CV
+      icon: file-text
+      href: Cassario_cv_Oct_07_24.pdf
+    - text: TBS Lab Website
+      href: https://tbslaboratory.com/
+---
+
+:::{#ppc}
+Welcome to my website! I am a third-year PhD Student in the Department of Psychology at Michigan State University and a member of the Belief Systems Lab. My research and teaching interests lie in social and political psychology and research methods. Specifically, I am interested in how socialization and individual differences shape people's belief systems, and relatedly how characteristics of people's belief systems affect their individual attitudes (e.g., moral conviction).
+
+I also enjoy learning about computational social science. I am particularly interested in improving causal inferences in psychology, and in machine learning methods (e.g., random forests, tree-boosting, causal forests). 
+
+I was a division one swimmer as an undergraduate at the University of North Carolina at Asheville (go Bulldogs!), and still enjoy swimming and weightlifting in my free time. I am also a huge sports fan, and enjoy cheering on my hometown Carolina Hurricanes with my dad and little brother during hockey season!
+
+Before MSU, I received my BA in political science and psychology from the University of North Carolina at Asheville, and my MA in political science from the University of North Carolina at Chapel Hill.
+:::
+
