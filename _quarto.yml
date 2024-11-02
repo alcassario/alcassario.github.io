@@ -1,0 +1,39 @@
+project:
+  type: website
+  output-dir: docs
+publish:
+  gh-pages:
+    branch: gh-pages
+    url: https://alcassario.github.io/alcassario.github.io
+    
+# Correct website block structure for the navbar
+website:
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Research"
+        href: Research.qmd
+      - text: "Teaching"
+        href: Teaching.qmd
+      - text: "Blog"
+        href: posts.qmd
+
+# Title for SEO only (not rendered on the page)
+title: "Abigail Cassario: PhD Student in Psychology"
+
+# Only using Open Graph metadata for SEO
+metadata:
+  og:title: "Abigail Cassario"
+  og:description: "Abigail Cassario, Research, Publications, Projects, Computational Social Science Blog, Abigail Cassario Social Psychology"
+  og:url: "https://alcassario.github.io/"
+  robots: "index, follow"
+
+# Output format configuration
+format:
+  html:
+    theme: quartz
+    css: styles.css
+    toc: true
+
+
